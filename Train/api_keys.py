@@ -1,1 +1,0 @@
-gmap_key = "AIzaSyDmc5olNmbv92Sr8ywFlAM_XTZXdYbNJ8A" 
