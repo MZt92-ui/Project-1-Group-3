@@ -5,6 +5,6 @@ Car_crash use API to pull the data, trim and export to CSV. The raw data downloa
 
 Heat map requires Google API to run. Need to put the google API key in before click run all or else it will throw error.
 
-There are 4 Python Files called Boat Fatalities by Brendan, plane crash by Robert, in the car_crash folder their is data analyse 1 and 2 by Dat, and in Train folder train accident data analysis. 
+There are 4 Python Files called Boat Fatalities by Brendan, plane crash by Robert, in the car_crash folder their is data analyse 1 and 2 by Dat, and in Train folder train accident data analysis by Maozhu. 
 
 The main presentation is called "Final Presentation" in Powerpoint
